@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link, Route } from 'react-router-dom'
-//import './App.css';
+import './App.css';
 import routesConfig from './routesConfig';
 
 class App extends Component {
